@@ -1,13 +1,3 @@
-### **Задача 1**  
-
-<center>
-<img src="https://disk.yandex.ru/i/3KmiVrUT7wEjQw">
-</center>
-
-![Описание изображения](https://disk.yandex.ru/i/3KmiVrUT7wEjQw)
-
----
-
 ### **Задача 2**  
 
 1. **Высоконагруженная база данных MySQL, критичная к отказу**  
