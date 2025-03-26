@@ -67,4 +67,4 @@ https://hub.docker.com/repository/docker/alexbel77/custom-nginx/general
 
 7. Предупреждение говорит о том, что есть контейнеры, которые ранее были частью Compose-проекта, но сейчас не соответствуют никаким сервисам в `docker-compose.yaml`
 
-8. [Файл compose.yaml](http)
+8. [Файл compose.yaml](https://github.com/alex-bel31/virtd-homeworks/blob/main/virt-03-docker-intro/compose.yaml)
