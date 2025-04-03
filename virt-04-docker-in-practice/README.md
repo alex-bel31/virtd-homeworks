@@ -46,8 +46,7 @@ docker run \
     mysqldump --opt -h shvirtd-example-python-db-1 -uroot -p******* --result-file=/backup/dumps.sql virtd
 ```
 
-Выходила ошибка `Got error: 1045: "Plugin caching_sha2_password could not be loaded: Error loading shared library` скорее всего из-за использования старой версии `client-mysql` в образе. Поэтому решил использовать образ `mysql:8`.
-
+Выходила ошибка `Got error: 1045: "Plugin caching_sha2_password could not be loaded: Error loading shared library` скорее всего из-за использования старой версии `client-mysql` в образе. Поэтому использовал образ `mysql:8`.
 
 # Задача 6
 
