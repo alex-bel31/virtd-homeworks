@@ -23,9 +23,9 @@
 <img src="img/mysql-t4.JPG">
 </center>
 
-[Bash-скрипт для скачивания и запуска проекта](https://github.com/alex-bel31/virtd-homeworks/blob/main/virt-04-docker-in-practice/compose.yaml)
+[Bash-скрипт для скачивания и запуска проекта](https://github.com/alex-bel31/shvirtd-example-python/blob/main/install_run.sh)
 
-[Ссылка на fork-репозиторий](https://github.com/alex-bel31/virtd-homeworks/blob/main/virt-04-docker-in-practice/compose.yaml)
+[Ссылка на fork-репозиторий](https://github.com/alex-bel31/shvirtd-example-python)
 
 # Задача 5*
 
@@ -33,7 +33,7 @@
 <img src="img/crontab-dump_db-t5.JPG">
 </center>
 
-[Скрипт для резервного копирования БД MySQL](https://github.com/alex-bel31/virtd-homeworks/blob/main/virt-04-docker-in-practice/compose.yaml)
+[Скрипт для резервного копирования БД MySQL](https://github.com/alex-bel31/virtd-homeworks/blob/main/virt-04-docker-in-practice/dump_db.sh)
 
 При запуске контейнера из образа `schnitzler/mysqldump`:
 
